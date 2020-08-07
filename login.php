@@ -177,7 +177,7 @@ form
 <?php
 $servername = "localhost";
 $username = "root";
-$password = "";
+$password = "root";
 $dbname = "thirdeye";
 $user = $_POST["username"];
 $pass = $_POST["password"];
